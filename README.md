@@ -1,2 +1,2 @@
-# credit-card-fraud-detection
+# Fraud prevention and detection
 a mini project
